@@ -1,3 +1,4 @@
 Hello , Welcome to git tutorials.
-these are the changes made
+these are the changes made for git merge
+
 
